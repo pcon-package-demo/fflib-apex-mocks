@@ -1,0 +1,14 @@
+{
+  "orgName": "pcon company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "org-capitalization-record-types": true,
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
